@@ -1,0 +1,145 @@
+*{
+margin: 0;
+padding: 0;
+}
+body{
+    background-color: antiquewhite;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+.navbar{
+    background-color: rgb(180, 74, 74);
+}
+
+.logo{
+    width: 100px;
+}
+.cantantes a{
+    text-decoration: none;
+    color: black;
+
+}
+.cantantes ol{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border: 1px solid;
+    margin-top: 15px;
+    font-weight: bold;
+   padding: 7px;
+   margin: 0;
+}
+
+.colaborados h1{
+    font-size: 20px;
+}
+.colaborados{
+    border: 1px solid;
+    width: 300px;
+}
+.colaborados ul{
+    list-style: none;
+    font-weight: bold;
+}
+
+.pailita{
+    width: 90px;
+    margin-bottom: 10px;
+}
+.polima{
+    width: 90px;
+    margin-bottom: 10px;
+}
+.morad{
+    width: 90px;
+}
+
+.inicio{
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 5px;
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    padding: 3px;
+    text-decoration: none;
+    font-weight: bold;
+    margin-right: 40px;
+}
+
+.paloma{
+    width: 90px;
+    margin-bottom: 10px;
+    margin-left: 30px;
+}
+
+.ak{  width: 90px;
+    margin-bottom: 10px;
+}
+
+.marcianeke{
+    width: 90px;
+    margin-bottom: 10px;
+    margin-left: 45px;
+}
+.biza{
+    width: 90px;
+    margin-bottom: 10px;
+}
+.cister{
+    width: 90px;
+    margin-bottom: 10px;
+    margin-left: 45px;
+}
+.beny{
+    width: 90px;
+    margin-bottom: 10px;
+    margin-left: 85px;
+}
+
+.pablo{
+    width: 90px;
+    margin-bottom: 10px;
+    margin-left: 45px;
+}
+.harry{
+    width: 90px;
+    margin-bottom: 10px;
+    margin-left: 52px;
+}
+.nicky{
+    width: 90px;
+    margin-bottom: 10px;
+    margin-left: 65px;
+}
+
+.gustos{
+margin-left: 320px;
+position: absolute;
+font-size: 20px;
+border: 1px solid;
+padding: 10px;
+margin-right: 300px;
+border-radius: 50px;
+}
+.titulos{
+    font-size: 20px;
+}
+.trayectoria{
+    margin-top: 400px;
+    margin-left: 320px;
+    border: 1px solid black;
+    position: absolute;
+}
+
+.como{
+    border: 1px solid black;
+    margin: 25px;
+    padding: 10px;
+}
+.gusta{
+    border: 1px solid black;
+    margin: 25px;
+    padding: 10px;
+}
